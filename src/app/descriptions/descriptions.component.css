@@ -1,0 +1,37 @@
+.div1{
+    display: block;
+    width: 400px;
+    background: whitesmoke;
+        border-radius: 8px;
+        padding: 8px 16px;
+    height: 243px;
+    font-size: 12px;
+  
+  }
+    .div2{
+      display: block;
+      width: 500px;
+      background: whitesmoke;
+          border-radius: 15px;
+          padding: 8px 16px;
+      height: 420px;
+      font-size: 12px;
+    }
+    .div3{
+      display: block;
+      width: 500px;
+      background: whitesmoke;
+          border-radius: 8px;
+          padding: 8px 16px;
+      height: 120px;
+      font-size: 12px;
+    }
+    .div4{
+      display: block;
+      width: 500px;
+      background: whitesmoke;
+          border-radius: 8px;
+          padding: 8px 16px;
+      height: 186px;
+      font-size: 12px;
+    }
