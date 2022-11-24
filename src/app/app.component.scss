@@ -286,7 +286,7 @@ flex-direction: row;
   }
   }
 
- @media only screen and (max-width: 1000px) {
+  @media only screen and (max-width: 1000px) {
     
     img{
       width: 100px;
@@ -333,6 +333,7 @@ flex-direction: row;
       }
       h4{
         font-size: 15px;
+        font-weight: 460;
         width: 360px;
       }
     }
@@ -362,7 +363,8 @@ flex-direction: row;
       }
 
       h4{
-        font-size: 14px;
+        font-size: 13px;
+        font-weight: 450;
         width: 300px;
       }
     }
@@ -389,6 +391,7 @@ flex-direction: row;
           }
           h4{
             font-size: 12px;
+            font-weight: 400;
             width: 240px;
           }
         }
@@ -470,6 +473,7 @@ flex-direction: row;
 
               h4{
                 font-size: 9px;
+                font-weight: 350;
                 width: 170px;
               }
             }
