@@ -140,6 +140,8 @@
   h4 {
     font-size: 2.4rem;
     font-weight: 500;
+    width: 525px;
+    text-align: justify;
   }
   .header__img {
     width: 100%;
@@ -285,90 +287,129 @@ flex-direction: row;
   }
 
  @media only screen and (max-width: 1000px) {
+    
     img{
       width: 100px;
-      margin: 10px;
       margin-top: 45px;
     }
+
     .header__title {
       h1{
         font-size: 4.4rem;
       }
+
       h4{
         font-size: 16px;
+        width: 420px;
       }
     }
+
+
     .project {
+      
       h2{
         font-size: 18px;
       }
-    } 
+    }
+        
       }
+
+  
+
+
   @media only screen and (max-width: 800px) {
+    
     img{
       width: 40px;
+    
       margin-top: 42px;
+      
+  
     }
+
     .header__title {
       h1{
         font-size: 3.7rem;
       }
       h4{
         font-size: 15px;
+        width: 360px;
       }
     }
+
     .project {
+      
       h2{
         font-size: 17px;
       }
-    }  
+    }
+        
       }
 
   @media only screen and (max-width: 700px) {
+    
     img{
       width: 40px;
+    
       margin-top: 40px;
+      
+  
     }
+
     .header__title {
       h1{
         font-size: 3.2rem;
       }
+
       h4{
         font-size: 14px;
+        width: 300px;
       }
     }
+
     .project {
+      
       h2{
         font-size: 16px;
       }
     }
+        
       }
+
       @media only screen and (max-width: 600px) {
+    
         img{
           width: 30px;
           margin-top: 38px;
         }
+
         .header__title {
           h1{
             font-size: 2.5rem;
           }
           h4{
-            font-size: 10px;
+            font-size: 12px;
+            width: 240px;
           }
         }
+
         .nav{
           width: 100%;
           margin-left: -100px;
         }
+
         .nav__link:link,
         .nav__link:visited {
           font-size: 1.6rem;
         }
+
         .project {
+      
           h2{
             font-size: 15px;
           }
         }
+            
           }
 
           @media only screen and (max-width: 532px) {
@@ -378,53 +419,83 @@ flex-direction: row;
               justify-content: center;
               align-items: center;
             }
+        
+         
+        
+            // .header__title {
+            //   h1{
+            //     font-size: 2.7rem;
+            //   }
+            // }
           }
 
           @media only screen and  (max-width: 500px){
+            
+          
             .header__title {
+
+
               h1{
                 font-size: 2.0rem;
               }
               h4{
-                font-size: 9px;
+                font-size: 10px;
+                width: 190px;
               }
+             
             }
             .nav{
               width: 100%;
-              margin-left: -162px;
+              margin-left: -165px;
+
               h2{
                 font-size: 15px;
               }
+
             }
             .nav__link:link,
             .nav__link:visited {
               font-size: 1.4rem;
             }
           }
+
+
+
           @media only screen and  (max-width: 400px){ 
+
             .header__title {
               h1{
                 font-size: 1.9rem;
               }
+
               h4{
-                font-size: 7px;
+                font-size: 9px;
+                width: 170px;
               }
             }
+
             .nav{
               width: 100%;
-              margin-left: -170px;        
+              margin-left: -170px;
+              
               h2{
                 font-size: 14px;
               }
+
             }
+
             .nav__links{
               margin: -22px;
-            }   
+            }
+
+            
         .project {
+      
           h2{
             font-size: 14px;
           }
-        }   
+        }
+            
           }
 
 
