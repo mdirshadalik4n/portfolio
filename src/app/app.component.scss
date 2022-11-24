@@ -327,8 +327,9 @@ flex-direction: row;
     
     img{
       width: 40px;
-    
-      margin-top: 42px;
+    height: 170px;
+    margin-left: 7px;
+      margin-top: 52px;
       
   
     }
@@ -372,9 +373,10 @@ flex-direction: row;
   @media only screen and (max-width: 700px) {
     
     img{
-      width: 40px;
-    
-      margin-top: 40px;
+      width: 43px;
+    height: 150px;
+    margin-left: 5px;
+      margin-top: 60px;
       
   
     }
@@ -419,8 +421,9 @@ flex-direction: row;
       @media only screen and (max-width: 600px) {
     
         img{
-          width: 30px;
-          margin-top: 38px;
+          width: 45px;
+          height:145px;
+          margin-top: 55px;
         }
 
         .header__title {
@@ -495,7 +498,11 @@ button{
 
           @media only screen and  (max-width: 500px){
             
-          
+          img{
+            width: 45px;
+            height: 140px;
+            margin-top: 50px;
+          }
             .header__title {
 
 
@@ -544,7 +551,11 @@ button{
 
 
           @media only screen and  (max-width: 400px){ 
-
+img{
+  margin-top: 50px;
+  width: 25;
+  height: 45;
+}
             .header__title {
               h1{
                 font-size: 1.9rem;
@@ -610,5 +621,4 @@ span{
       }
             
           }
-
 
