@@ -35,3 +35,162 @@
       height: 186px;
       font-size: 12px;
     }
+ @media only screen and (max-width: 1000px)  {
+
+      .div1{
+        width: 400px;
+        height: 250px;
+        font-size: 12px;
+
+      }
+
+      .div2{
+        width: 400px;
+        height: 425px;
+        font-size: 12px;
+
+      }
+
+      .div3{
+        width: 400px;
+        height: 150px;
+        font-size: 12px;
+
+      }
+
+      .div4{
+        width: 400px;
+        height: 220px;
+        font-size: 12px;
+
+      }
+      
+    }
+
+    @media only screen and (max-width: 800px)  {
+
+      .div1{
+        width: 395px;
+        height: 247px;
+        font-size: 12px;
+
+      }
+
+      .div2{
+        width: 400px;
+        height: 428px;
+        font-size: 12px;
+
+      }
+
+      .div3{
+        width: 400px;
+        height: 150px;
+        font-size: 12px;
+
+      }
+
+      .div4{
+        width: 400px;
+        height: 220px;
+        font-size: 12px;
+
+      }
+      
+    }
+
+    @media only screen and (max-width: 600px)  {
+
+      .div1{
+        width: 350px;
+        height: 247px;
+        font-size: 11px;
+
+      }
+
+      .div2{
+        width: 350px;
+        height: 445px;
+        font-size: 11px;
+
+      }
+
+      .div3{
+        width: 350px;
+        height: 166px;
+        font-size: 11px;
+
+      }
+
+      .div4{
+        width: 350px;
+        height: 243px;
+        font-size: 11px;
+
+      }
+      
+    }
+
+    @media only screen and (max-width: 500px)  {
+
+      .div1{
+        width: 330px;
+        height: 260px;
+        font-size: 11px;
+
+      }
+
+      .div2{
+        width: 330px;
+        height: 463px;
+        font-size: 11px;
+
+      }
+
+      .div3{
+        width: 330px;
+        height: 178px;
+        font-size: 11px;
+
+      }
+
+      .div4{
+        width: 330px;
+        height: 243px;
+        font-size: 11px;
+
+      }
+      
+    }
+
+    @media only screen and (max-width: 400px)  {
+
+      .div1{
+        width: 300px;
+        height: 305px;
+        font-size: 11px;
+
+      }
+
+      .div2{
+        width: 300px;
+        height: 480px;
+        font-size: 11px;
+
+      }
+
+      .div3{
+        width: 300px;
+        height: 200px;
+        font-size: 11px;
+
+      }
+
+      .div4{
+        width: 300px;
+        height: 285px;
+        font-size: 11px;
+
+      }
+      
+    }
